@@ -17,4 +17,5 @@ if selected_video == "Set Up an Environment":
 if selected_video == "Data Structures: List":
     my_video = open("videos/data_structures_list.mkv", "rb")
     my_video_in_bytes = my_video.read()
-    st.video(my_video_in_bytes)        
+    st.video(my_video_in_bytes)
+    st.video(my_video_in_bytes)
